@@ -1,0 +1,11 @@
+Food :
+
+Name: kosa  Price: 5.5  Quantity: 4
+Name: bamya  Price: 10.0  Quantity: 4
+Name: potato  Price: 3.5  Quantity: 4
+
+Devices :
+
+Devices :
+
+

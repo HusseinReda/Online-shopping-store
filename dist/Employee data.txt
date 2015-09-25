@@ -1,0 +1,6 @@
+Mahmoud_Hasan 15
+Amr_Mohamed 5
+Khaled 8 15.8 0.08
+Salem 12 20 0.14
+Som3a 10 14
+Ibrahim 12 16
